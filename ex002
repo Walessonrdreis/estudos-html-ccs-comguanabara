@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu segundo Exercício</title>
+</head>
+<body>
+    <h1>parágrafos e quebras de texto</h1>
+    <hr>
+   <p>Você pode escrever um parágrafo de qualquer jeito. Basta colocar tudo no meio do par de tags &lt;p&gt; e &lt;/p&gt;<!--LESS THAN / GREATER THAN -->
+
+   </p> 
+
+   <p>Se precisar quebrar o texto em algum lugar específico <br> como esse, você pode usar a tag &lt;br&gt;.
+   </p>
+   
+   <h2>Símbolos Especias</h2>
+   <hr>
+   <p>
+       Espaço em braco (&nbsp;) & + nbsp;.<br>
+       <hr>
+       Marca registrada (&reg;) & + reg;.<br>
+       <hr>
+       Copyright (&copy;) & + copy;.<br>
+       <hr>
+       Trade Mark (&trade;) & + trade;. <br>
+       <hr>
+       Euro (&euro;) &+euro;. <br>
+       <hr>
+       Libra (&pound;) &+pound;. <br>
+       <hr>
+       Yen (&yen;) &+yen;. <br>
+       <hr>
+       Cent (&cent;) &+cent;. <br>
+       <hr>
+       Vazio (&empty;) &+empty;. <br>
+       <hr>
+       Soma (&sum;) &+sum;. <br>
+       <hr>
+       Delta (&Delta;) &+Delta;. <br>
+       <hr>
+       Seta esquerda (&larr;) &+larr;. <br>
+       <hr>
+       Seta acima (&uarr;) &+uarr;. <br>
+       <hr>
+       Seta direita (&rarr;) &+rarr;. <br>
+       <hr>
+       Seta baixo (&darr;) &+darr;. <br>
+       <hr>
+
+
+
+
+
+   </p>
+   <p>Vamos adcionar alguns emoji: <br>
+    <hr>
+       Saldação vulcana + cara de oculos  &#x1F596;&#x1F60E;<br>
+      sorrindo &#x1F600;<br>
+      Rosto com lágrimas de alegria &#x1F602;
+    
+   </p>
+
+   
+</body>
+</html>
